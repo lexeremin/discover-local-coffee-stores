@@ -62,7 +62,7 @@ button:focus {
 
 :root {
   --text-teal: rgb(174, 248, 248);
-  --text-teal-dark: rgb(102, 151, 151);
+  --text-teal-dark: rgb(49, 148, 148);
   --text-black: rgb(17, 24, 39, 1);
-  --text-white-100: rgb(230, 230, 199);
+  --text-white-100: rgb(184, 184, 161);
 }
